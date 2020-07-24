@@ -18,3 +18,5 @@ years = gets.chomp # this returns a string
 years = years.to_i # this converts a string to an integer
 hours = years * 365 * 24
 puts "That's #{hours} hours."
+
+When you have completed both the SQL exercises and the ruby program, push them to github and issue a pull request.
